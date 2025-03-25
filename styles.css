@@ -1,1 +1,32 @@
-
+{
+ margin: 0;
+ padding: 0;
+ box-sizing: 0; border-box;
+ font-family: 0; Arial, sans-serif;
+}
+body {
+  background-colour: #f5f5f5;
+}
+header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+   background-colour: #Bb6f47;
+   colour: white;
+}
+nav ul {
+   list-style: none;
+   display: flex;
+}
+nav ul li {
+   margin: 0 15px;
+}
+nav ul li a {
+   colour: white;
+   text-decoration: none;
+   font-size: 18px;
+}
+.hero { 
+    background-image: url()
+  
